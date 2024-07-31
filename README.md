@@ -41,4 +41,4 @@ Welcome to my home network setup project using Cisco Packet Tracer! This project
 7. **Verifying Configuration**:
     - Test connectivity between all devices.
   
-Checkout my blog on this --> [My Blog](https://mridi0t.blogspot.com/2024/07/basic-home-network-setup-using-cisco.html)
+## Checkout my blog on this --> [My Blog](https://mridi0t.blogspot.com/2024/07/basic-home-network-setup-using-cisco.html)
